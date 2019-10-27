@@ -66,5 +66,5 @@ for(const [i, word] of words.entries()){
     console.log("Solution 3: " + reverse_3(word));
     console.log("Solution 4: " + reverse_4(word));
     console.log("Solution 4.1: " + reverse_4_1(word));
-    console.log("Solution 5 " + reverse_5(word));
+    console.log("Solution 5: " + reverse_5(word));
 }
