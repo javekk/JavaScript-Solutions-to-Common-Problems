@@ -1,5 +1,5 @@
 /*
- *  Reverse a string
+ *  Reverse a string. For example "Hello World!" should become "!dlroW olleH"
  *
  *  1st solution: Make use of 'Array' object built-in methods. 
  * 
