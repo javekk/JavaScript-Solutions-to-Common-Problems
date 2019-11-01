@@ -8,6 +8,7 @@
  * 1st Solution: sort the two arrays and check if they are equal.
  *  
  * 2st Solution: map the characters for each string, than compare the two maps
+ * 
  *
  */ 
 
@@ -43,6 +44,8 @@ const anagrams_2 = (s1, s2) =>{
     }
     return true;
 }
+
+
 
 
 let phrases_couple = [
